@@ -10,7 +10,6 @@ html {
   #wrapper {
     background: url("kuvat/grunge.png");
     background-size: cover;
-    width: 960px;
   }
 
   header {
@@ -25,7 +24,6 @@ html {
   }
 
   #special {
-    width: 960px;
     background-color: #697f86;
     background-image: url("kuvat/special-bg.png");
     background-repeat: repeat-x;
